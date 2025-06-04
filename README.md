@@ -22,5 +22,3 @@ This project was developed remotely for the **Quanser Self-Driving Car Student C
 - YOLO v11 (Object Detection)
 
 ---
-
-Would you like help visualizing the QCar setup or adding a route-planning diagram?
