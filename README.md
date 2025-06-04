@@ -9,7 +9,7 @@ This project was developed remotely for the **Quanser Self-Driving Car Student C
 - Applied **YOLO-based machine learning models** to detect **traffic signs**, **lights**, and **pedestrians**, enabling reactive behaviors during navigation.
 - Configured **NAV2** with LiDAR-based localization for high-accuracy movement planning.
 
-> ⚠️ *Note: ROS 2 code and specific configurations are not shown here as they are part of an ongoing research project currently under review.*
+> ⚠️ *Note: ROS 2 code and specific configurations are not shown here as they are part of an ongoing research project.*
 
 ---
 
