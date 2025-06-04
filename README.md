@@ -1,4 +1,4 @@
-# Autonomous Navigation for QCar2 – Isaac Sim & Quanser Competition
+# Autonomous Navigation for QCar2 –  Quanser Competition
 
 This project was developed remotely for the **Quanser Self-Driving Car Student Competition 2025** using **QCar2** and the **Quanser Interactive Labs platform**. It focuses on autonomous navigation, perception, and decision-making in structured environments.
 
@@ -15,10 +15,19 @@ This project was developed remotely for the **Quanser Self-Driving Car Student C
 
 ## Tools & Technologies
 
-- Isaac Sim (NVIDIA)
-- Quanser Interactive Labs
+- Isaac Sim (NVIDIA) - Quanser Interactive Labs
 - ROS 2 & NAV2 (conceptual use)
 - Python
 - YOLO v11 (Object Detection)
 
 ---
+
+## Gallery
+
+![GUI Overview](./images_ACC2025/GUI.jpg)
+
+*GUI Overview*
+
+![Navigation Algorithm](./images_ACC2025/Navigation.jpg)
+
+*Navigation Algorithm*
