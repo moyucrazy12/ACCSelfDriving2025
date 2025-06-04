@@ -24,10 +24,10 @@ This project was developed remotely for the **Quanser Self-Driving Car Student C
 
 ## Gallery
 
-![GUI Overview](./images_ACC2025/GUI.jpg)
+![GUI Overview](./images_ACC2025/GUI.png)
 
 *GUI Overview*
 
-![Navigation Algorithm](./images_ACC2025/Navigation.jpg)
+![Navigation Algorithm](./images_ACC2025/Navigation.png)
 
 *Navigation Algorithm*
